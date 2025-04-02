@@ -110,6 +110,7 @@ conf = titan_client.Configuration(
                  server_index=None, server_variables=None,
                  server_operation_index=None, server_operation_variables=None,
                  ssl_ca_cert=None,
+                 proxy=None,
                  ):
         """Constructor
         """
